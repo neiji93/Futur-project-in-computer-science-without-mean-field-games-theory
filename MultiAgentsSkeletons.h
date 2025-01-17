@@ -5,5 +5,12 @@
 
 class karstIteratorStreams
 {
+public:
 
+  void iterateWorld()
+{
+    getApproximateBsdfFirst();
+    getTitaneBSDFSecond();
+
+}
 }
