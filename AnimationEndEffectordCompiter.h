@@ -13,7 +13,7 @@ class AnimationEndEffecorsComputer
  public:
    void geneticAlgorithmsPreventThem();
 
-   void...
+   
 }
 
 
@@ -28,6 +28,21 @@ class AnimationEndEffecorsComputer
 class physicalQuangizisDatas
 {
 
+
+
 public:
   void exponentialInstantRadiosityChekck();
+
+void getSingleModelEinsum()
+{
+  //choose a paper but use only one reflexion model parametrr.
+
+ )
+}
+   //we dont deal with compiter graphics here.
+   void skipOverlappingProcess()
+{}
+
+  //a way to skip fully cg will be to use compiter vision
+
 }
